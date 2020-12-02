@@ -8,3 +8,5 @@
 
 先运行get_img_from_baike.py爬取原始图片后，再运行图片处理.py进行剪裁。
 
+
+
